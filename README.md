@@ -65,7 +65,7 @@ Es un proyecto personal, no un sistema en producción con usuarios reales, y eso
 - Sentry, los tests end-to-end con Playwright y la exportación del certificado a PDF están instalados como dependencias pero sin integrar por completo.
 - El aislamiento de red entre contenedores de distintos usuarios está implementado en el código, pero requiere activarse explícitamente en el despliegue; no viene activado por defecto.
 
-En otro repositorio se recogen capturas de la aplicación en funcionamiento (pizarra de casos, Cipher Arena, certificados); no se incluyen en este README.
+    En otro repositorio se recogen [capturas](./plataforma-ciber/images) de la aplicación en funcionamiento (pizarra de casos, Cipher Arena, certificados); no se incluyen en este README.
 
 ## Conclusión
 
