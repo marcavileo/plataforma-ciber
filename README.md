@@ -75,4 +75,4 @@ Comparado con lo que cubre el itinerario universitario, esta ha sido la primera 
 
 ---
 
-Marc Avileo — [avileopc@gmail.com](mailto:marcavileo16@gmail.com)
+Marc Avileo — [marcavileo16@gmail.com](mailto:marcavileo16@gmail.com)
